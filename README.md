@@ -1,1 +1,2 @@
 # image-to-audio-converter-for-visually-impaired
+Developed an image-to-audio converter utilizing Python libraries such as OpenCV and PyTesseract for image processing and OCR. The system extracts text from images and converts it into speech using the gTTS (Google Text-to-Speech) library. This project enhances accessibility by enabling visually impaired users to listen to the content of images. Implemented error handling to manage unreadable text and enhance robustness. The user-friendly interface allows for easy uploading of images and downloading of audio files.
